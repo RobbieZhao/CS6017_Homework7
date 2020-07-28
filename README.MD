@@ -1,3 +1,5 @@
+## Group member: Yang Di & Zixuan Zhao
+
 # Plans
 
 We want to visualize the GDP of several countries over years.
