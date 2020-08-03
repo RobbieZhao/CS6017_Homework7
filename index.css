@@ -1,0 +1,12 @@
+text {
+	font-size: 1em;
+}
+
+path {
+	stroke-linejoin: round;
+}
+
+.selectedYear {
+	stroke: black;
+	stroke-width: 3;
+}

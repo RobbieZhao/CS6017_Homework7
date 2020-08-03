@@ -20,5 +20,37 @@ When the user move the mouse, there will be a vertical line attached to the mous
 
 This graph will show the GDP of the selected countries at a particular year (the year is chosen by clicking on the line chart).
 
+# How to use
 
-We'll probably add more features if time allowed.
+First clone the repository: 
+
+    git clone https://github.com/RobbieZhao/CS6017_Homework7.git
+    
+Change the directory:
+
+    cd CS6017_Homework7
+    
+Open up a local server:
+
+    python3 -m http.server 8080
+
+Then open a browser, and visit:
+    
+    localhost:8080
+    
+# What it's like
+
+![Image of Yaktocat](screenshot.jpg)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
